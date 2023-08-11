@@ -1,16 +1,14 @@
-### Hi there 👋
+### OLÁ, BEM-VINDO(A) AO MEU PERFIL 🙋 💻 🍒
 
-<!--
-**camilah22/camilah22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Meu nome é Camila Hennig de Camargo;
 
-Here are some ideas to get you started:
+📍Sou aluna do [alura](https://www.alura.com.br/), estudante da 2ª série;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍Este espaço é dedicado para organizar e compartilhar meus projetos desenvolvidos;
+
+### Quer entrar em contato? Envie-me um 📫 
+### camila.hennigde.camargo@escola.pr.gov.br 
+### ou via instagram @camilahennig_ 🤳
+    
+![](https://media.tenor.com/lEYmkDdp3EAAAAAM/gravity-falls.gif)
+
